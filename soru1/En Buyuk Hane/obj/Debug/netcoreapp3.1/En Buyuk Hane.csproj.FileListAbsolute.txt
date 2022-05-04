@@ -1,0 +1,13 @@
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.exe
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.deps.json
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.runtimeconfig.json
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.runtimeconfig.dev.json
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.dll
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\bin\Debug\netcoreapp3.1\En Buyuk Hane.pdb
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.csprojAssemblyReference.cache
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.AssemblyInfoInputs.cache
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.AssemblyInfo.cs
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.csproj.CoreCompileInputs.cache
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.dll
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.pdb
+C:\Users\Qollessium\source\repos\En Buyuk Hane\En Buyuk Hane\obj\Debug\netcoreapp3.1\En Buyuk Hane.genruntimeconfig.cache

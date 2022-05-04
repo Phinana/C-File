@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Random Siralama/1.0.0": {
+        "runtime": {
+          "Random Siralama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Random Siralama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
